@@ -2,7 +2,7 @@
 name = "ratereel"
 version = "0.1.0"
 description = ""
-authors = ["GoshkaLP <rybkin.georgy@yandex.ru>"]
+authors = ["Lil-Boria_Yang <boris2002@yandex.ru>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
