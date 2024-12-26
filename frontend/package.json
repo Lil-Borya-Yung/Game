@@ -1,5 +1,5 @@
 {
-  "name": "ratereel",
+  "name": "TheGame",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "format": "prettier --write './**/*.{html,css,js}'",
     "live": "live-server --no-browser --port=9000"
   },
-  "author": "Rybkin G.M.",
+  "author": "KeselmanBM",
   "license": "ISC",
   "dependencies": {
     "live-server": "^1.2.2",
