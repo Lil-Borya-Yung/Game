@@ -2,7 +2,7 @@ import { getToken } from "./api.js";
 
 document.addEventListener("DOMContentLoaded", async () => {
   const params = new URLSearchParams(window.location.search);
-  const movieId = params.get("movie_id");
+  const movieId = params.get("theGame_id");
   const token = localStorage.getItem("token");
 
   const navLink = document.getElementById("nav-link");
