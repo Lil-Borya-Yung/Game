@@ -7,7 +7,7 @@ import os
 from api.orm.session import get_session
 from api.orm import models
 from api.repo.file import FileRepo
-from api.repo.movie import MovieRepo
+from api.repo.movie import TheGame
 from dotenv import load_dotenv
 
 load_dotenv()
